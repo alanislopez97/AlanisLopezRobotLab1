@@ -28,7 +28,7 @@ public class SelfCheckTester {
 	public void test() {
 		// Change the following line after "new"
 		// To create an instance of YOUR main class
-		GenericComponent testTarget = new MainComponent();
+		GenericComponent testTarget = new Roomba();
 		assertNotEquals(testTarget.getComponentName(), "Template main component");
 		try {
 			assertTrue(checkComponents(testTarget, testTarget.getSubComponents()));			
