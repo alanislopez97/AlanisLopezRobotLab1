@@ -9,4 +9,7 @@ package labone;
  */
 public class FrontWheel {
 
+	private String function;
+	private int size;
+	
 }

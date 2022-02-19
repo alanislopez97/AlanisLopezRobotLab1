@@ -9,4 +9,5 @@ package labone;
  */
 public class Button extends ControlBoard {
 
+	private String function;
 }

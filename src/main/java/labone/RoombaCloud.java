@@ -7,8 +7,6 @@ package labone;
  * @author alanis
  *
  */
-public class VacuumModel {
+public class RoombaCloud {
 
-	private String title; 
-	
 }
